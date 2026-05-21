@@ -67,7 +67,4 @@ The prediction model analyzes:
 
 ## 📸 Application Preview
 
-Create a folder named:
-
-```text
-screenshots
+![App Screenshot](screenshots/app_preview.png)
